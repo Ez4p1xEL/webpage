@@ -102,7 +102,7 @@ docker run -p 12445:12445 -d home
 },
 ```
 
-其中 `icon` 网站链接的图标可以在 `src/components/Links/index.vue` 中添加:
+其中 `icon` 网站链接的图标可以在 `src/components/Links/index.vue` 中添加 :
 
 ```js
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
